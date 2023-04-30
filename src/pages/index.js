@@ -1,9 +1,10 @@
 import React from 'react';
+import banner from '../images/ashlee-simpson.jpg'
 
 const Home = () => {
 return (
 	<div
-    class='fade-in'
+    className='fade-in'
 	style={{
 		position: 'fixed',
 		height: '100vh',
@@ -12,10 +13,11 @@ return (
 	}}
 	>
         <div>
-            <img src='../../images/ashlee-simpson.jpg'
+            <img src={banner}
                 alt='Ashlee Simpson'
                 style={{
                     width: '100%',
+                    zIndex: '100'
                 }}
             >
             </img>

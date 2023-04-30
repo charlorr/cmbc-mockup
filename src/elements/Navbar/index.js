@@ -8,6 +8,7 @@ NavBtn,
 NavBtnLink,
 Logo,
 } from './NavbarElements';
+import logo from '../../images/cmbc-logo.png';
 
 const Navbar = () => {
 return (
@@ -31,7 +32,7 @@ return (
 
 		<Logo>
 			<img
-				src='../../../images/cmbc-logo.png'
+				src={logo}
 				alt='Celebrity Memoir Book Club Logo'
 				style={{
 					height: '100%',
