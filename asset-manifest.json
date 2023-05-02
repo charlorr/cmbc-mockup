@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.d532baa7.css",
-    "main.js": "/personal-website/static/js/main.f5319c0e.js",
-    "static/media/ashlee-simpson.jpg": "/personal-website/static/media/ashlee-simpson.c65f95c54217a2c22ee8.jpg",
+    "main.css": "/personal-website/static/css/main.da4feedd.css",
+    "main.js": "/personal-website/static/js/main.544aaa07.js",
+    "static/media/ashlee-header.jpeg": "/personal-website/static/media/ashlee-header.269b88847dea75b872dd.jpeg",
     "static/media/cmbc-logo.png": "/personal-website/static/media/cmbc-logo.d46a405a8039992d27a9.png",
     "index.html": "/personal-website/index.html",
-    "main.d532baa7.css.map": "/personal-website/static/css/main.d532baa7.css.map",
-    "main.f5319c0e.js.map": "/personal-website/static/js/main.f5319c0e.js.map"
+    "main.da4feedd.css.map": "/personal-website/static/css/main.da4feedd.css.map",
+    "main.544aaa07.js.map": "/personal-website/static/js/main.544aaa07.js.map"
   },
   "entrypoints": [
-    "static/css/main.d532baa7.css",
-    "static/js/main.f5319c0e.js"
+    "static/css/main.da4feedd.css",
+    "static/js/main.544aaa07.js"
   ]
 }
