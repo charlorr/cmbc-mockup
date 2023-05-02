@@ -76,7 +76,7 @@ width: 100vw; */
 
 export const NavBtnLink = styled(Link)`
 border-radius: 4px;
-background: #808080;
+background: #8982d5;
 padding: 10px 22px;
 color: #000000;
 outline: none;
@@ -88,8 +88,7 @@ text-decoration: none;
 margin-left: 24px;
 &:hover {
 	transition: all 0.2s ease-in-out;
-	background: #fff;
-	color: #808080;
+	color: #ffffff;
 }
 `;
 

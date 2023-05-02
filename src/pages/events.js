@@ -3,14 +3,15 @@ import React from 'react';
 const Events = () => {
 return (
 	<div
+    class='fade-in'
 	style={{
 		display: 'flex',
 		justifyContent: 'Right',
 		alignItems: 'Right',
-		height: '100vh'
+		height: '100vh - 70px'
 	}}
 	>
-	<h1>Welcome to GeeksforGeeks Events</h1>
+	<h1>✈ 🚉 🚗 Tour!!!</h1>
 	</div>
 );
 };

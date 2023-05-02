@@ -1,7 +1,6 @@
 import React from 'react';
 
 const About = () => {
-console.log('ABOUT WAS LOADED!!!!!!!!!!')
 return (
 	<div
     class='fade-in'
@@ -12,7 +11,7 @@ return (
 		height: '100vh - 70px'
 	}}
 	>
-	<h1>GeeksforGeeks is a Computer Science portal for geeks.</h1>
+	<h1>👋 Hi I'm Charlene</h1>
 	</div>
 );
 };
