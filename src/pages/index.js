@@ -6,7 +6,6 @@ const Home = () => {
 return (
     <div>
 
-    {/* Panel 1 */}
 	<div
     className='fade-in'
 	style={{
@@ -52,7 +51,6 @@ return (
         </img>
         </div>
         </div>
-        {/* Panel 2 */}
         <div style={{
             background: '#8982d5',
             width: '100%',
