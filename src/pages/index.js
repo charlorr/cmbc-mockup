@@ -23,7 +23,7 @@ return (
                 display: 'inline-block',
                 position: 'absolute',
                 zIndex: '20',
-                top: '300px',
+                top: 'calc(100px + 25vh)',
             }}
         >
             <div><h1 class='highlight' >This is</h1></div>

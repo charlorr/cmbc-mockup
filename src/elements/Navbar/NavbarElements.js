@@ -12,6 +12,9 @@ justify-content: space-between;
 padding: 0 10px;
 box-shadow: 0 4px 10px black;
 z-index: 12;
+@media screen and (max-width: 768px) {
+	justify-content: center;
+}
 /* Third Nav */
 /* justify-content: flex-start; */
 `;
@@ -38,7 +41,8 @@ export const Bars = styled(FaBars)`
 display: none;
 color: #808080;
 @media screen and (max-width: 768px) {
-	display: block;
+	// display: block;
+	display: none;
 	position: absolute;
 	top: 0;
 	right: 0;
